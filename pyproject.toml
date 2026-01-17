@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 # https://packaging.python.org/en/latest/specifications/declaring-project-metadata/
 [project]
 name = "molecool"
-description = "dinates"
+description = "A Python package to visualize molecules given their Cartesian coordinates"
 dynamic = ["version"]
 readme = "README.md"
 authors = [
